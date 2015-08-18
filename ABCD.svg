@@ -25,9 +25,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.69999999"
-     inkscape:cx="321.19096"
-     inkscape:cy="-138.44126"
+     inkscape:zoom="0.24748737"
+     inkscape:cx="-568.502"
+     inkscape:cy="520.88229"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -44,7 +44,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title />
+        <dc:title></dc:title>
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -86,7 +86,10 @@
        width="1405.7142"
        height="2131.4285"
        x="-451.42859"
-       y="-246.67844" />
+       y="-246.67844"
+       inkscape:export-filename="/home/turupawn/Projects/Leitzz/imagenes_terminadas.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90" />
     <text
        xml:space="preserve"
        style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#ffffff;fill-opacity:1;stroke:none;font-family:Sans"
